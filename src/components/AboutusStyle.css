@@ -1,0 +1,38 @@
+.about-des{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    margin:4rem 4rem;
+    justify-content: center;
+}
+
+.about-des h1{
+    font-size: 2rem;
+    padding-top: 2rem;
+    
+}
+
+.about-des p{
+    font-size: 1rem;
+    padding-top: 1rem;
+}
+
+@media screen and (max-width:850px) {
+    .about-des{
+       
+        margin:2rem 2rem;
+       
+    }
+    
+    .about-des h1{
+        font-size: 1.3rem;
+        
+        
+    }
+    
+    .about-des p{
+        font-size: 0.8rem;
+       
+    }
+    
+}
