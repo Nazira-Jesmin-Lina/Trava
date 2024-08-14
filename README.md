@@ -2,6 +2,19 @@
 A travel friendly app.It is mainly a frontend design of a travel based app.
 # Logo
 ![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/logo.jpg)
+# Landing page
+![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/homepage.png)
+# About page
+![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/paboutpage.png)
+# ContactUs page
+![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/contact.png)
+# Service page
+![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/servicepage.png)
+# SignUp page
+![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/signup.png)
+# It also works as Responsive UI 
+![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/responsive.png)
+
 
 ## Available Scripts
 
