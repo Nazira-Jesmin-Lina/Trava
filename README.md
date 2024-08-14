@@ -1,5 +1,5 @@
 # Trava
-A travel friendly app.It is mainly a frontend design of a travel based app.
+A travel friendly app.It is mainly a frontend design of a travel based app using React js.
 # Logo
 ![image](https://github.com/Nazira-Jesmin-Lina/Trava/blob/master/src/assets/logo.jpg)
 
